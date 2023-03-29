@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @YTarik
 - 👀 I’m interested in embedded programming with C.
-- 🌱 I’m also currently learning C.
+- 🌱 I’m also currently learning C and VHDL.
+- 👀 I'm working on FPGA for communication tech.
 - 📫 How to reach me with an e-mail, yusuftarik@outlook.com
 
 <!---
